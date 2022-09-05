@@ -1,7 +1,3 @@
-# Yazen-Halid
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <h1 align="center">Hi 👋, I'm yazenhalid</h1>
 <h4 align="center">A passionate Software Development Engineer in Test with more than 3 years of experience</h4>
 
