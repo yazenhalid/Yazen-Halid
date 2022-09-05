@@ -1,2 +1,2 @@
 # Yazen-Halid
-# (https://github-profile-trophy.vercel.app/yazenhalid=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
